@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+easyocr
+pillow
+python-dotenv
+pandas
+numpy
+pypdf
+reportlab
